@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/md-istiuk-ahmed-mitul-4b800033b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. istiuk ahmed mitul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-istiuk-ahmed-mitul-4b800033b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. istiuk ahmed mitul" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/iamitul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="md. istiuk ahmed mitul" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/istiak5455/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md istiuk ahmed mitul" height="30" width="40" /></a>
 </p>
