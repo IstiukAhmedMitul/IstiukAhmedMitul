@@ -4,9 +4,15 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiukahmedmitul&label=Profile%20views&color=0e75b6&style=flat" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiukahmedmitul" alt="istiukahmedmitul" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiukahmedmitul" alt="istiukahmedmitul" /></a> </p>-->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=IstiukAhmedMitul" alt="IstiukAhmedMitul" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **a medical project.**
+
+- 🔭 I’m currently working on **a Hyper Ledger Fabric Project.**
 
 - 🌱 I’m currently learning **Cyber security and Ethical Hacking.**
 
