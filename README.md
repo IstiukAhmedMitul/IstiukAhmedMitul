@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Istiuk Ahmed.</h1>
-<h3 align="center">A passionate machine learning and deep learning student.</h3>
+<h3 align="center">Passionate about cybersecurity, with hands-on experience in coding and a solid foundation in machine learning.</h3>
 
 
 
