@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on **a Hyper Ledger Fabric Project.**
 
 - 🌱 I’m currently learning **Cyber security and Ethical Hacking.**
 
